@@ -5,6 +5,7 @@ module.exports = {
     author: `@fire-scale`,
     siteUrl: `https://yiedl.com`,
   },
+  pathPrefix: "/yiedl-website",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
